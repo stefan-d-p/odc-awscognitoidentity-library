@@ -16,7 +16,7 @@ Generates (or retrieves) IdentityID. Supplying multiple logins will create an im
 
 * `IdentityId` - A unique identifier in the format REGION:GUID
 
-### GetCredentialsForIdentityResponse
+### GetCredentialsForIdentity
 
 Generates (or retrieves) IdentityID. Supplying multiple logins will create an implicit linked account
 **Input parameters**
